@@ -2,7 +2,8 @@
  * name    : dlxQuiz jQuery Plugin
  * author  : Chyno Deluxe
  * version : 1.0.0
- *Arabized by: www.imintweb.com
+ * Arabized by: www.imintweb.com
+ * Customized by: Aimen Basim - www.hrinsider.info
  * copyright (c) 2016 Chyno Deluxe - http://www.chynodeluxe.com
  * license MIT
  */
