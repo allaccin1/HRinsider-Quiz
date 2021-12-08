@@ -43,15 +43,15 @@
         nextButton_text: "Next Question",
         completeButton_text: "Finish Quiz",
         viewResultsButton_text: "View Results",
-        resultsHeader_text: "Here's how you did.",
+        resultsHeader_text: ".Here's how you did",
         quizScore_text: "You answered %totalScore out of %totalQuestions questions correctly",
         quizScoreMessage_text: "",
         quizScoreRank_text: {
-          a: "Perfect Score!",
-          b: "Great Job!",
-          c: "At least you passed.",
-          d: "Should have studied more.",
-          f: "Did you even try?"
+          a: "!Perfect Score",
+          b: "!Great Job",
+          c: ".At least you passed",
+          d: ".You should have studied more",
+          f: "?Did you even try"
         },
   
 
