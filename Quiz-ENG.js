@@ -1,4 +1,3 @@
-
 /*!
  * name    : dlxQuiz jQuery Plugin
  * author  : Chyno Deluxe
@@ -50,8 +49,8 @@
           a: "Your mark is [A], Perfect",
           b: "Your mark is [B], You did well",
           c: "Your mark is [C], Not too bad",
-          d: "?Your mark is [D], Did you even try",
-          f: "Your mark is [E], We encourage you to spend more time on learning English"
+          d: "Adequate, Your mark is [D], Should have studied more",
+          f: "Inadequate, Your mark is [E], Did you even try?"
         },
   
 
