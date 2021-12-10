@@ -47,11 +47,11 @@
         quizScore_text: "You answered %totalScore out of %totalQuestions questions correctly",
         quizScoreMessage_text: "",
         quizScoreRank_text: {
-          a: "!Perfect, Your mark is A",
-          b: ".You did well, Your mark is B",
-          c: "!Not too bad, Your mark is C",
-          d: ".We believe that you are better than getting this result, repeat the test with more focus, Your mark is D",
-          f: ".We advise you to spend more time on learning English, Your mark is E"
+          a: "Perfect, Your mark is [A]",
+          b: "You did well, Your mark is [B]",
+          c: "Not too bad, Your mark is [C]",
+          d: "We believe that you are better than getting this result, repeat the test with more focus, Your mark is [D]",
+          f: "We advise you to spend more time on learning English, Your mark is [E]"
         },
   
 
